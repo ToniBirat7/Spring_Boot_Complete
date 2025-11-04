@@ -1,0 +1,84 @@
+# .gitignore for Spring Boot (Java) projects
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+logs/
+hs_err_pid*
+
+# Packages
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Keep Maven wrapper jar (if present)
+/.mvn/wrapper/maven-wrapper.jar
+
+# Generated sources
+/generated/
+generated-sources/
+generated-test-sources/
+
+# IDEs
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.swp
+*~.nib
+*.tmp
+
+# Sensitive / local files
+.env
+*.properties.local
+application-*.yml
+application-*.properties
+*.jks
+*.keystore
+
+# Other build artifacts
+node_modules/
+dist/
+target/
+
+# Ignore coverage reports
+coverage/
+*.lcov
