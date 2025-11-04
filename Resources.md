@@ -10,6 +10,14 @@
 
 ## **Playlists**
 
+**Java**
+
+[Bro_Code_Playlist](https://www.youtube.com/watch?v=xTtL8E4LzTQ)
+
+[Piyush_Garg_Java](https://www.youtube.com/playlist?list=PLinedj3B30sBbrPUH6YFBhpFpjSnAKHTY)
+
+[Piyush_Garg_Java_OOPs](https://www.youtube.com/playlist?list=PLinedj3B30sCoHBdM-S7Ang7WERCCuftE)
+
 **Java Spring Framework Tutorials**
 
 [Java_Spring_Basics](https://www.youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS)
